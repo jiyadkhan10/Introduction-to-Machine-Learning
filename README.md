@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="/gaih/introduction-to-machine-learning-archived/blob/main/logo.png"><img src="/gaih/introduction-to-machine-learning-archived/raw/main/logo.png" style="max-width: 100%;"></a>
+  <img src="/gaih/data-visualization/raw/main/logo.png" height="200px" style="max-width: 100%;">
 </div>
 
 # Introduction to Machine Learning
