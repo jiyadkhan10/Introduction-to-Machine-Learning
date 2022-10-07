@@ -30,7 +30,7 @@
 # Final Project
 <li><a href="https://github.com/jiyadkhan10/Introduction-to-Machine-Learning/tree/main/Introduction%20to%20Machine%20Learning/Final%20Project%20Mushroom%20Classification"> Final Project Mushroom Classification </a></li>
 
-
-
+# Languages
+<li> Python </li>
 
 
