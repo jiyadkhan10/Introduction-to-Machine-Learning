@@ -33,4 +33,6 @@
 # Languages
 <li> Python </li>
 
+# Cerfiticate 
+<img src="/MahreenAthar/introduction-to-machine-learning/raw/main/ML_Certificate.png" alt="Certificate" style="max-width: 100%;">
 
