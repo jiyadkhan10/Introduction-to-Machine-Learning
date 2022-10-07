@@ -34,5 +34,6 @@
 <li> Python </li>
 
 # Cerfiticate 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/jiyadkhan10/Introduction-to-Machine-Learning/blob/main/Certificate.pdf"></a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/jiyadkhan10/Introduction-to-Machine-Learning/blob/main/Certificate.pdf">Certificate</a>
 
