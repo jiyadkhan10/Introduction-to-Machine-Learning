@@ -1,4 +1,7 @@
-<img src="https://github.com/globalaihub/introduction-to-machine-learning/raw/main/Decision%20Trees/img/logo.png" style="max-width: 100%;">
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/gaih/introduction-to-machine-learning-archived/blob/main/logo.png"><img src="/gaih/introduction-to-machine-learning-archived/raw/main/logo.png" style="max-width: 100%;"></a>
+</div>
+
 # Introduction to Machine Learning
 <p dir="auto">You can find more information about Introduction to Machine Learning Course by visiting <a href="https://globalaihub.com/courses/introduction-to-machine-learning/" rel="nofollow">Course Website.</a></p>
 
