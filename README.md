@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-  <img src="/gaih/data-visualization/raw/main/logo.png" height="200px" style="max-width: 100%;">
+  <img src="https://github.com/globalaihub/introduction-to-machine-learning/raw/main/Decision%20Trees/img/logo.png" style="max-width: 100%;">
 </div>
 
 # Introduction to Machine Learning
