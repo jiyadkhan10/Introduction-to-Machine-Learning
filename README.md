@@ -34,5 +34,5 @@
 <li> Python </li>
 
 # Cerfiticate 
-<img src="/MahreenAthar/introduction-to-machine-learning/raw/main/ML_Certificate.png" alt="Certificate" style="max-width: 100%;">
+<img src="https://github.com/jiyadkhan10/Introduction-to-Machine-Learning/blob/main/Certificate.pdf" alt="Certificate" style="max-width: 100%;">
 
