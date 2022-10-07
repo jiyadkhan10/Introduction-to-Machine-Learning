@@ -35,4 +35,5 @@
 
 # Cerfiticate 
 <img src="https://github.com/jiyadkhan10/Introduction-to-Machine-Learning/blob/main/Certificate.pdf" alt="Certificate" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/jiyadkhan10/Introduction-to-Machine-Learning/blob/main/Certificate.pdf"><img src="https://github.com/jiyadkhan10/Introduction-to-Machine-Learning/blob/main/Certificate.pdf" alt="Certificate" style="max-width: 100%;"></a>
 
